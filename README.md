@@ -18,6 +18,7 @@ Build a Decentralized App on IPFS using WebAssembly .
 ## From this repo
 
 **Clone Repo**
+**trunk serve**
 
 ## From Scratch
 
