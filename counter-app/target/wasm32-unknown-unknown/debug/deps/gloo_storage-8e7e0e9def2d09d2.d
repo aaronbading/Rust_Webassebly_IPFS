@@ -1,0 +1,10 @@
+/home/aaronbading/projects/Rust_Webassebly_IPFS/counter-app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-8e7e0e9def2d09d2.rmeta: /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/home/aaronbading/projects/Rust_Webassebly_IPFS/counter-app/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-8e7e0e9def2d09d2.rlib: /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/home/aaronbading/projects/Rust_Webassebly_IPFS/counter-app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-8e7e0e9def2d09d2.d: /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs:
+/home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs:
+/home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs:
+/home/aaronbading/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs:
