@@ -45,8 +45,6 @@ yew = "0.19"
 cargo update
 ```
 
-**Add Dependency to Cargo.toml file :**
-
 Create an index.html file and paste the following :
 
 ```
@@ -160,7 +158,7 @@ Check out the future of the internet in a ipfs compatable browser such as brave.
 ipfs://bafybeicsyilnu4rxrjlerad5kzstvgio3n62qlxektwqudj4x53vaexxiu/python3 -m http.server 8080
 ```
 
-Basically , Install Ipfs node and user their nice UI to upload the dist folder. Then share link and view the app live.
+Basically , Install Ipfs node and use their nice UI to upload the dist folder. Then share link and view the app live.
 
 ## Acknowledgments
 
